@@ -18,6 +18,12 @@ This practical application involves analyzing and filtering a dataset, creating 
 - Bars overall had the lowest proportion of acceptance, however this drastically changed based on certain criteria, such as recipients who frequently visit bars, recipients that had kids as passengers with them, and age.
 - Restaurants under $20 were the most accepted. Time of day and income did not seem to impact acceptance rates. What I found to have the greatest negative impact of coupon acceptance for restaurants under $20, was when the coupon had a 2 hour expiration, and especially for respondents that were older (above 46 years old) and with higher income.
 
+## Action Steps and Recommendations
+- Target customers intentionally for different coupon types based on their visit frequency to certain establishments. (i.e. offer bar coupons to bar customers). 
+- Eliminate coupons with short expiration windows.
+- Offer less CoffeeHouse coupons, less expensive restaurant coupons, and more cheap restaurant coupons.
+- Target more younger customers, and more customers in lower income brackets.
+  
 ## Tools Used
 - Jupyter Notebook
 - Python
