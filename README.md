@@ -2,6 +2,9 @@
 Practical Application 1 - Week 5 - by Timothy Vermette
 # Will the Customer Accept the Coupon?
 
+## Link to Jupyter Notebook on GitHub
+- https://github.com/t-vermette/Berkeley-ML-AI-Practical-Application-1
+
 ## Overview
 This practical application involves analyzing and filtering a dataset, creating graphs, and uncovering information on whether drivers will accept coupons based on several factors, including type of establishment and frequency of visits, age, income, time of day.
 
